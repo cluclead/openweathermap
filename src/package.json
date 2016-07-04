@@ -1,0 +1,15 @@
+{
+  "title": "OpenWeatherMap",
+  "name": "iowmap",
+  "description": "Current weather and forecasts in your city",
+  "id": "jid1-rjnMew3yiIuyn3fgY@jetpack",
+  "license": "Mozilla Public License, version 2.0",
+  "version": "0.1.0",
+  "author": "Morni Colhkher",
+  "main": "./lib/background.js",
+  "url": "http://eccorem.com/apps/openweathermap.html",
+  "permissions": {
+    "private-browsing": true,
+    "multiprocess": true
+  }
+}
